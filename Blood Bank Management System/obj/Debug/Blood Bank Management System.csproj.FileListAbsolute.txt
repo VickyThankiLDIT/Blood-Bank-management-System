@@ -1,0 +1,38 @@
+c:\users\dell\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.login.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1.mdf
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1_log.ldf
+C:\Users\DELL\documents\visual studio 2012\Projects\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.addblood.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csprojResolveAssemblyReference.cache
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.addblood.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.login.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.Cache
+E:\project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1.mdf
+E:\project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Database1_log.ldf
+E:\project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+E:\project\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.changePassowrd.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.showinfo.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form2.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.UpdatInfo.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Search.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.getblood.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\bin\Debug\itextsharp.dll
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Homepage.resources
+E:\project\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Aboutus.resources
+E:\project blood bank\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+E:\project blood bank\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+E:\project blood bank\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
